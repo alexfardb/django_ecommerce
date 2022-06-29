@@ -1,0 +1,7 @@
+
+# Arquivos compilados por byte / otimizados / DLL
+__pycache__ /
+*.py[cod]
+*Spy.class
+
+* .sqlite3
